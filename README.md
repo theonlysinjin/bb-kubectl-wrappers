@@ -1,4 +1,8 @@
 # Some helper commands to list pods
+Requires the setup of kubectl and for commands like this to work,
+```bash
+kubectl get nodes
+```
 ## To Run
 ### Get all pods
 ```bash
